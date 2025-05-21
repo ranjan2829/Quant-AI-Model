@@ -1,0 +1,360 @@
+Trading Plans for 2025-05-21
+==================================================
+
+Symbol: NSEI
+Date: 2025-05-21
+Current Price: 24778.65
+Signal: HOLD/SELL
+Confidence: 0.12
+Stop Loss: 24113.51
+Position Size (Shares): 30
+Position Value: 88985.65
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.23)
+  gradient_boosting: SELL (Prob: 0.13)
+  neural_network: SELL (Prob: 0.00)
+
+------------------------------
+
+Symbol: BSESN
+Date: 2025-05-21
+Current Price: 81598.67
+Signal: HOLD/SELL
+Confidence: 0.09
+Stop Loss: 79405.16
+Position Size (Shares): 9
+Position Value: 63496.56
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.17)
+  gradient_boosting: SELL (Prob: 0.08)
+  neural_network: SELL (Prob: 0.00)
+
+------------------------------
+
+Symbol: NSEBANK
+Date: 2025-05-21
+Current Price: 54973.75
+Signal: HOLD/SELL
+Confidence: 0.10
+Stop Loss: 53419.83
+Position Size (Shares): 12
+Position Value: 73119.99
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.24)
+  gradient_boosting: SELL (Prob: 0.07)
+  neural_network: SELL (Prob: 0.00)
+
+------------------------------
+
+Symbol: CNXIT
+Date: 2025-05-21
+Current Price: 37504.95
+Signal: HOLD/SELL
+Confidence: 0.09
+Stop Loss: 36000.61
+Position Size (Shares): 13
+Position Value: 43478.54
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.18)
+  gradient_boosting: SELL (Prob: 0.08)
+  neural_network: SELL (Prob: 0.00)
+
+------------------------------
+
+Symbol: CNXPHARMA
+Date: 2025-05-21
+Current Price: 21695.75
+Signal: HOLD/SELL
+Confidence: 0.12
+Stop Loss: 20943.43
+Position Size (Shares): 26
+Position Value: 68811.42
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.24)
+  gradient_boosting: SELL (Prob: 0.12)
+  neural_network: SELL (Prob: 0.00)
+
+------------------------------
+
+Symbol: CNXAUTO
+Date: 2025-05-21
+Current Price: 23691.75
+Signal: HOLD/SELL
+Confidence: 0.11
+Stop Loss: 22667.84
+Position Size (Shares): 19
+Position Value: 49446.45
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.23)
+  gradient_boosting: SELL (Prob: 0.09)
+  neural_network: SELL (Prob: 0.00)
+
+------------------------------
+
+Symbol: RELIANCE_NS
+Date: 2025-05-21
+Current Price: 1424.10
+Signal: HOLD/SELL
+Confidence: 0.05
+Stop Loss: 1370.83
+Position Size (Shares): 375
+Position Value: 28312.49
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.10)
+  gradient_boosting: SELL (Prob: 0.06)
+  neural_network: SELL (Prob: 0.00)
+
+------------------------------
+
+Symbol: TCS_NS
+Date: 2025-05-21
+Current Price: 3525.70
+Signal: HOLD/SELL
+Confidence: 0.08
+Stop Loss: 3387.33
+Position Size (Shares): 144
+Position Value: 39491.64
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.17)
+  gradient_boosting: SELL (Prob: 0.06)
+  neural_network: SELL (Prob: 0.00)
+
+------------------------------
+
+Symbol: HDFCBANK_NS
+Date: 2025-05-21
+Current Price: 1925.00
+Signal: HOLD/SELL
+Confidence: 0.12
+Stop Loss: 1861.36
+Position Size (Shares): 314
+Position Value: 74612.92
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.26)
+  gradient_boosting: SELL (Prob: 0.11)
+  neural_network: SELL (Prob: 0.00)
+
+------------------------------
+
+Symbol: INFY_NS
+Date: 2025-05-21
+Current Price: 1565.80
+Signal: HOLD/SELL
+Confidence: 0.13
+Stop Loss: 1496.07
+Position Size (Shares): 286
+Position Value: 58907.83
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.25)
+  gradient_boosting: SELL (Prob: 0.13)
+  neural_network: SELL (Prob: 0.02)
+
+------------------------------
+
+Symbol: HINDUNILVR_NS
+Date: 2025-05-21
+Current Price: 2364.10
+Signal: HOLD/SELL
+Confidence: 0.16
+Stop Loss: 2284.71
+Position Size (Shares): 251
+Position Value: 93227.43
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.26)
+  gradient_boosting: SELL (Prob: 0.19)
+  neural_network: SELL (Prob: 0.02)
+
+------------------------------
+
+Symbol: ICICIBANK_NS
+Date: 2025-05-21
+Current Price: 1441.30
+Signal: HOLD/SELL
+Confidence: 0.05
+Stop Loss: 1389.56
+Position Size (Shares): 386
+Position Value: 30511.30
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.14)
+  gradient_boosting: SELL (Prob: 0.02)
+  neural_network: SELL (Prob: 0.00)
+
+------------------------------
+
+Symbol: SBIN_NS
+Date: 2025-05-21
+Current Price: 785.70
+Signal: HOLD/SELL
+Confidence: 0.17
+Stop Loss: 751.25
+Position Size (Shares): 580
+Position Value: 75674.70
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.26)
+  gradient_boosting: SELL (Prob: 0.23)
+  neural_network: SELL (Prob: 0.01)
+
+------------------------------
+
+Symbol: BAJFINANCE_NS
+Date: 2025-05-21
+Current Price: 9185.00
+Signal: HOLD/SELL
+Confidence: 0.09
+Stop Loss: 8734.14
+Position Size (Shares): 44
+Position Value: 37986.55
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.15)
+  gradient_boosting: SELL (Prob: 0.13)
+  neural_network: SELL (Prob: 0.00)
+
+------------------------------
+
+Symbol: BHARTIARTL_NS
+Date: 2025-05-21
+Current Price: 1821.30
+Signal: HOLD/SELL
+Confidence: 0.09
+Stop Loss: 1741.83
+Position Size (Shares): 251
+Position Value: 39976.69
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.17)
+  gradient_boosting: SELL (Prob: 0.09)
+  neural_network: SELL (Prob: 0.00)
+
+------------------------------
+
+Symbol: KOTAKBANK_NS
+Date: 2025-05-21
+Current Price: 2075.00
+Signal: HOLD/SELL
+Confidence: 0.07
+Stop Loss: 1982.93
+Position Size (Shares): 217
+Position Value: 31192.48
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.10)
+  gradient_boosting: SELL (Prob: 0.11)
+  neural_network: SELL (Prob: 0.00)
+
+------------------------------
+
+Symbol: WIPRO_NS
+Date: 2025-05-21
+Current Price: 251.18
+Signal: HOLD/SELL
+Confidence: 0.12
+Stop Loss: 239.01
+Position Size (Shares): 1643
+Position Value: 49100.25
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.18)
+  gradient_boosting: SELL (Prob: 0.17)
+  neural_network: SELL (Prob: 0.00)
+
+------------------------------
+
+Symbol: AXISBANK_NS
+Date: 2025-05-21
+Current Price: 1195.60
+Signal: HOLD/SELL
+Confidence: 0.07
+Stop Loss: 1148.39
+Position Size (Shares): 423
+Position Value: 36379.65
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.10)
+  gradient_boosting: SELL (Prob: 0.12)
+  neural_network: SELL (Prob: 0.00)
+
+------------------------------
+
+Symbol: MARUTI_NS
+Date: 2025-05-21
+Current Price: 12638.00
+Signal: HOLD/SELL
+Confidence: 0.12
+Stop Loss: 12060.86
+Position Size (Shares): 34
+Position Value: 52940.89
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.23)
+  gradient_boosting: SELL (Prob: 0.13)
+  neural_network: SELL (Prob: 0.00)
+
+------------------------------
+
+Symbol: SUNPHARMA_NS
+Date: 2025-05-21
+Current Price: 1734.70
+Signal: HOLD/SELL
+Confidence: 0.09
+Stop Loss: 1644.17
+Position Size (Shares): 220
+Position Value: 33438.46
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.15)
+  gradient_boosting: SELL (Prob: 0.11)
+  neural_network: SELL (Prob: 0.00)
+
+------------------------------
+
+Symbol: TATAMOTORS_NS
+Date: 2025-05-21
+Current Price: 725.10
+Signal: HOLD/SELL
+Confidence: 0.08
+Stop Loss: 677.19
+Position Size (Shares): 417
+Position Value: 23552.26
+Risk Amount: 20000.00
+
+Model Signals:
+  random_forest: SELL (Prob: 0.11)
+  gradient_boosting: SELL (Prob: 0.12)
+  neural_network: SELL (Prob: 0.00)
+
+------------------------------
+

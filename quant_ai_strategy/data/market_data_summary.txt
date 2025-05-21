@@ -1,0 +1,33 @@
+# Indian Market Data Summary
+
+## Indices
+- Nifty 50 (^NSEI)
+- BSE SENSEX (^BSESN)
+- Nifty Bank (^NSEBANK)
+- CNX IT (^CNXIT)
+- CNX Pharma (^CNXPHARMA)
+- CNX Auto (^CNXAUTO)
+
+## Stocks
+- Reliance Industries (RELIANCE.NS)
+- Tata Consultancy Services (TCS.NS)
+- HDFC Bank (HDFCBANK.NS)
+- Infosys (INFY.NS)
+- Hindustan Unilever (HINDUNILVR.NS)
+- ICICI Bank (ICICIBANK.NS)
+- State Bank of India (SBIN.NS)
+- Bajaj Finance (BAJFINANCE.NS)
+- Bharti Airtel (BHARTIARTL.NS)
+- Kotak Mahindra Bank (KOTAKBANK.NS)
+- Wipro (WIPRO.NS)
+- Axis Bank (AXISBANK.NS)
+- Maruti Suzuki (MARUTI.NS)
+- Sun Pharmaceutical (SUNPHARMA.NS)
+- Tata Motors (TATAMOTORS.NS)
+
+## Data Collection Details
+- Time Period: 1 year
+- Interval: Daily
+- Data Source: Yahoo Finance API
+- Collection Date: 2025-05-21
+- Data Fields: Date, Open, High, Low, Close, Volume, Adjusted Close

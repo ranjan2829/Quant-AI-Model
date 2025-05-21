@@ -1,0 +1,2 @@
+[ -f "$HOME/.env" ] && source "$HOME/.env"
+https://github.com/ranjan2829/Quant-AI-Model.git
